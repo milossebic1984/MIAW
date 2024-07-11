@@ -1,7 +1,6 @@
 <html>
 	"AAAAAAA"
 <head>	<link rel="shortcut icon" href="#">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'">
 </head>
 <body>
 <script type='text/javascript'>
