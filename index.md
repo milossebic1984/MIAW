@@ -7,8 +7,8 @@
 
 			embeddedservice_bootstrap.init(
 				'00Dao00000RAenx',
-				'HSE_Messinger',
-				'https://ag1720511005272.my.site.com/ESWHSEMessinger1720613805125',
+				'HSE_Test_Chat',
+				'https://ag1720511005272.my.site.com/ESWHSETestChat1720679993301',
 				{
 					scrt2URL: 'https://ag1720511005272.my.salesforce-scrt.com'
 				}
@@ -18,7 +18,8 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://ag1720511005272.my.site.com/ESWHSEMessinger1720613805125/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://ag1720511005272.my.site.com/ESWHSETestChat1720679993301/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+
 
 </body>
 </html>
