@@ -6,11 +6,11 @@
 			embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
 
 			embeddedservice_bootstrap.init(
-				'00Dao00000RAenx',
-				'HSE_Test_Chat',
-				'https://ag1720511005272.my.site.com/ESWHSETestChat1720679993301',
+				'00DQy000009kEil',
+				'HSE_Chat',
+				'https://mindful-otter-lvxcmc-dev-ed.trailblaze.my.site.com/ESWHSEChat1720437267411',
 				{
-					scrt2URL: 'https://ag1720511005272.my.salesforce-scrt.com'
+					scrt2URL: 'https://mindful-otter-lvxcmc-dev-ed.trailblaze.my.salesforce-scrt.com'
 				}
 			);
 		} catch (err) {
@@ -18,8 +18,6 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://ag1720511005272.my.site.com/ESWHSETestChat1720679993301/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
-
-
+<script type='text/javascript' src='https://mindful-otter-lvxcmc-dev-ed.trailblaze.my.site.com/ESWHSEChat1720437267411/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 </body>
 </html>
