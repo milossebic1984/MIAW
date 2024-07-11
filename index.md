@@ -1,4 +1,5 @@
 <html>
+	"AAAAAAA"
 <body>
 <script type='text/javascript'>
 	function initEmbeddedMessaging() {
