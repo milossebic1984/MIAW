@@ -1,5 +1,6 @@
 <html>
 	"AAAAAAA"
+<head>	<link rel="shortcut icon" href="#"> </head>
 <body>
 <script type='text/javascript'>
 	function initEmbeddedMessaging() {
